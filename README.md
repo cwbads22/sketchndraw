@@ -1,5 +1,5 @@
 # sketchndraw
-The Odin Project - Sketchboard
+The Odin Project - Sketchboard / Etch-a-Sketch
 
 Almost finishing the Fundamentals Of Web Development in The Odin Project. 
 
